@@ -6,8 +6,6 @@
 
 ## 📁 Acesso ao projeto
 
-**Fazer o clone do projeto com o comando: git clone https://github.com/Rafazz04/Api-Filmes.git**
-
 ## 🛠️ Abrir e rodar o projeto
 
 **-Abra a pasta ApiFilmes**<br>
